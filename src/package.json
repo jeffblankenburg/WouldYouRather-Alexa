@@ -1,0 +1,19 @@
+{
+  "name": "would-you-rather",
+  "version": "1.0.0",
+  "description": "An Alexa skill for playing Would You Rather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "dashbot": "^9.4.6",
+    "airtable": "^0.5.2"
+  }
+}
