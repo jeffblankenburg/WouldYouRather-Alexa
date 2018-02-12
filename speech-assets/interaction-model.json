@@ -1,0 +1,28 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "GetScenario",
+        "samples": [
+          "give me a scenario",
+          "give me another",
+          "give me a would you rather scenario"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "would you"
+  }
+}
